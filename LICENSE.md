@@ -1,4 +1,4 @@
-# 
+# Polymarket elite Algorithm: prediction-market-scanning & gas-optimization is the best Polymarket algorithm, featuring prediction-market-scanning and gas-optimization. Smart, fast,
 
 
 
